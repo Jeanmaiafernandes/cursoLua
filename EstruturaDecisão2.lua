@@ -17,3 +17,4 @@ else
 end
 
 print("Confirmando você está na  fase " .. fase)
+
